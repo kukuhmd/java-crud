@@ -1,10 +1,3 @@
-//Tugas Project Kelompok 4 PBO
-//Nama Anggota  :
-// 1. Diah Ayu Rahmawati    (210202007)
-// 2. Kukuh Mudhaya         (210202013)
-// 3. Pinky Andela          (210202016)
-// 4. Salma Citra Khamidah  (210302021)
-
 import java.sql.DriverManager;
 import java.sql.Connection;
 import java.sql.Statement;
